@@ -1,0 +1,2 @@
+# repositorioEjercicio
+Ejercicio Seek
